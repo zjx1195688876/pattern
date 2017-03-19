@@ -1,0 +1,23 @@
+{
+  "name": "pattern",
+  "version": "1.0.0",
+  "description": "JS设计模式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjx1195688876/pattern.git"
+  },
+  "keywords": [
+    "设计模式",
+    "JavaScript"
+  ],
+  "author": "zhangjinxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zjx1195688876/pattern/issues"
+  },
+  "homepage": "https://github.com/zjx1195688876/pattern#readme"
+}
