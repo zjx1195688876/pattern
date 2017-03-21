@@ -1,5 +1,5 @@
 /**
-**高阶函数实现AOP
+**高阶函数实现AOP 【AOP:面向切面编程，把一些和核心业务逻辑模块无关的功能抽离出来，再通过“动态织入”的方式掺入业务逻辑模块中】
 **/
 Function.prototype.before = function(beforefn) {
 	var self = this;	//保存原函数引用
